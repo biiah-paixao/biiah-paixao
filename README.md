@@ -1,8 +1,19 @@
-<h1> Olá, eu sou Beatriz Paixão
+<h1> Olá, meu nome é Beatriz Paixão
 <h3> Seja bem vindo ao meu GitHub :)</h3>
 
-  - 🚀 Tenho 19 anos, e atualmente estou estudando na Generation para me tornar um desenvolvedor Full Stack Java Jr.
+  - 🚀 Tenho 20 anos
   - 😊 Pronouns: ela/dela - she/her
+  - 🎓 Formada em Produção Multimia pela Universidade Santa Cecília
+  - 🏵️ Formada em Desenvolvimento Web Java Júnior atraves do bootcamp da Generation Brazil.
+  
+  
+ <h3> Estudando para ser Front-end developer e UI Designer.</h3>
+  
+  ☕ Habilidades: HTML, CSS, JavaScript, React, TypeScript, Material UI.
+
+  💼 Ferramentas: VS Code, Figma, Trello, Git e GitHub.
+
+
   
   <div>
   <a href="https://github.com/biiah-paixao">
@@ -11,16 +22,30 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2 align="Left"> Futuras Linguagens </p>
+  <h2 align="Left">Conhecimentos Gerais </p>
+  <img align="center" alt="Biiah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Biiah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biiah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biiah-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Biiah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Biiah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Biiah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Biiah-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Biiah-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Biiah-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
  
-  <img align="right" alt="Bia-Gif" src="https://cdn.discordapp.com/attachments/718240089582469183/881926591746301992/meu_gif.gif">
+  
+  <img align="center" alt="Biiah-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Biiah-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Biiah-ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img align="center" alt="Biiah-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Biiah-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+  <img align="center" alt="Biiah-AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+  <img align="center" alt="Biiah-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
+  <img align="center" alt="Biiah-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Biiah-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+
+
+
+<img align="right" alt="Bia-Gif" src="https://cdn.discordapp.com/attachments/718240089582469183/881926591746301992/meu_gif.gif">
 </div>
     
 ##
