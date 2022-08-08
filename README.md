@@ -13,7 +13,13 @@
 
   💼 Ferramentas: VS Code, Figma, Trello, Git e GitHub.
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,github,vscode)
+ 
+  <br>
+  
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,github,vscode,nodejs)](https://skillicons.dev) ______
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=bootstrap,sass,mysql,spring)](https://skillicons.dev)
+  
+  <br>
   
   <div>
   <a href="https://github.com/biiah-paixao">
@@ -21,13 +27,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biiah-paixao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-<div style="display: inline_block"><br>
-  
-  <h2 align="Left">Conhecimentos Gerais + Futuros Aprendizados</h2>
-  
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,github,vscode)](https://skillicons.dev) ______
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=bootstrap,sass,vue,mysql,spring,nodejs)](https://skillicons.dev)
-</div>
+
     
 ##
     
