@@ -1,15 +1,15 @@
 <h1> Olá, meu nome é Beatriz Paixão
 <h3> Seja bem vindo ao meu GitHub :)</h3>
 
-  - 🚀 Tenho 20 anos
+  - 🚀 Tenho 22 anos
   - 😊 Pronouns: ela/dela - she/her
   - 🎓 Formada em Produção Multimia pela Universidade Santa Cecília
-  - 🏵️ Formada em Desenvolvimento Web Java Júnior atraves do bootcamp da Generation Brazil.
+  - 🏵️ Formada em Desenvolvimento Web Java Júnior através do bootcamp da Generation Brazil.
   
   
  <h3> Estudando para ser Front-end developer e UI Designer.</h3>
   
-  ☕ Habilidades: HTML, CSS, JavaScript, React, TypeScript, Material UI.
+  ☕ Habilidades: HTML, CSS, JavaScript, React, TypeScript, Material UI, ,Tailwind.
 
   💼 Ferramentas: VS Code, Figma, Trello, Git e GitHub.
 
